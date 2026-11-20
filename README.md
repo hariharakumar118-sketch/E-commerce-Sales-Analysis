@@ -153,4 +153,4 @@ ecommerce-sales-analysis/
 
 ## Author
 
-_Add your name, role and LinkedIn link here._
+_Hariharakumar.S
