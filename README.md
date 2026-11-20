@@ -87,18 +87,16 @@ Store    --(Store_ID)-----+
 
 ### Screenshots
 
-| Descriptive analysis |
+| Descriptive analysis | Pivot 1 |
 |---|---|
 | <img width="880" height="476" alt="image" src="https://github.com/user-attachments/assets/5f0e4e75-3ebe-4153-a3b8-60e3a4945dab" />
- | Pivot 1 |
  | <img width="1398" height="402" alt="image" src="https://github.com/user-attachments/assets/962a03b7-6a8a-492d-8747-01614c904917" />
  |
 
-| Pivot 2 |
+| Pivot 2 | Pivot 3 |
 |---|---|
 | <img width="1334" height="265" alt="image" src="https://github.com/user-attachments/assets/342748e4-75c0-4d8c-8d94-ca5d3b7106c7" />
-| Pivot 3 |
- <img width="1338" height="500" alt="image" src="https://github.com/user-attachments/assets/d7d98c9a-898b-4991-85c6-8b58c8f39d8c" />
+| <img width="1338" height="500" alt="image" src="https://github.com/user-attachments/assets/d7d98c9a-898b-4991-85c6-8b58c8f39d8c" />
 |
 
 ---
