@@ -121,7 +121,7 @@ Store    --(Store_ID)-----+
 6. **Customer spend is uneven:** mean 1,134 vs median 950, skewness 0.88.
 7. **Sales are steady:** Q1 to Q3 had 748 orders in 2024 and 752 in 2025.
 
-Full details, numbers and recommendations are in **[Ecommerce_Sales_Analysis_Report.md](Ecommerce_Sales_Analysis_Report.md)**.
+Full details, numbers and recommendations are in **[Ecommerce_Sales_Analysis_Report.pdf](Ecommerce_Sales_Analysis_Report.pdf)**.
 
 ---
 
