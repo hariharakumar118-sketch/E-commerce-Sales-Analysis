@@ -2,7 +2,8 @@
 
 A descriptive analysis of a multi-channel e-commerce business, built in Microsoft Excel with pivot tables, slicers and an interactive dashboard. It answers one question: **what happened in sales, and where are the opportunities?**
 
-![Dashboard](images/dashboard.png)
+<img width="1482" height="526" alt="image" src="https://github.com/user-attachments/assets/b53e92a2-bf38-423a-9fda-387db448f6ab" />
+
 
 ---
 
@@ -88,22 +89,15 @@ Store    --(Store_ID)-----+
 
 | Descriptive analysis | Pivot 1 |
 |---|---|
-| ![Descriptive analysis](images/descriptive_analysis.png) | ![Pivot 1](images/pivot1.png) |
+| <img width="880" height="476" alt="image" src="https://github.com/user-attachments/assets/5f0e4e75-3ebe-4153-a3b8-60e3a4945dab" />
+ | <img width="1398" height="402" alt="image" src="https://github.com/user-attachments/assets/962a03b7-6a8a-492d-8747-01614c904917" />
+ |
 
 | Pivot 2 | Pivot 3 |
 |---|---|
-| ![Pivot 2](images/pivot2.png) | ![Pivot 3](images/pivot3.png) |
-
----
-
-## How to use the dashboard
-
-1. Open the **Dashboard** sheet.
-2. Click a button in a slicer (**Region**, **Store_Type**, **Order_Date Year**) to filter the charts.
-3. Hold **Ctrl** to select several items, or click the funnel icon with the red X to clear a slicer.
-4. After changing the data, go to **Data, Refresh All** to update the pivots and charts.
-
-Tip: compare full periods only. 2023 has only Q4, and the data ends in Oct 2025.
+| <img width="1334" height="265" alt="image" src="https://github.com/user-attachments/assets/342748e4-75c0-4d8c-8d94-ca5d3b7106c7" />
+ | <img width="1338" height="500" alt="image" src="https://github.com/user-attachments/assets/d7d98c9a-898b-4991-85c6-8b58c8f39d8c" />
+|
 
 ---
 
